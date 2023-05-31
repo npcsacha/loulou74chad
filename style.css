@@ -1,0 +1,22 @@
+h1
+{
+    color: darkgray;
+}
+
+body
+{
+    background-color: dimgray;
+}
+
+#carte
+{
+     width: 800px;
+    margin:0 auto;
+    background-color: whitesmoke;
+    text-align: center;
+    align-content: center;
+}
+h4
+{
+    color: darkslategray;
+}
